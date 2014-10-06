@@ -1,0 +1,35 @@
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.exe.config
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.exe
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.pdb
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.csprojResolveAssemblyReference.cache
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MainWindow.baml
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MainWindow.g.cs
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\App.g.cs
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf_MarkupCompile.cache
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.g.resources
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.Properties.Resources.resources
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.csproj.GenerateResource.Cache
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.exe
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.pdb
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\taglib-sharp.dll
+c:\users\fmccown\documents\visual studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.exe.config
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.exe
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.pdb
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.exe
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.pdb
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\taglib-sharp.dll
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.csprojResolveAssemblyReference.cache
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MainWindow.baml
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MainWindow.g.cs
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\App.g.cs
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf_MarkupCompile.cache
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.g.resources
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.Properties.Resources.resources
+C:\Users\aandrew1\Documents\Visual Studio 2013\Projects\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.csproj.GenerateResource.Cache
+C:\Users\aandrew1\Documents\Repos\MusicPlayerHW\MiniPlayerWpf\MiniPlayerWpf\bin\Debug\MiniPlayerWpf.exe.config
+C:\Users\aandrew1\Documents\Repos\MusicPlayerHW\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.exe
+C:\Users\aandrew1\Documents\Repos\MusicPlayerHW\MiniPlayerWpf\MiniPlayerWpf\obj\Debug\MiniPlayerWpf.pdb
